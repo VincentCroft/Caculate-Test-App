@@ -34,7 +34,7 @@
 
 演示截图如下:
 
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/VincentCroft/Caculate-Test-App@1.0/1.png" /></div>
+<div align="center"><img src="https://cdn.jsdelivr.net/gh/VincentCroft/Caculate-Test-App@2.0/1.png" /></div>
 
 ![](https://github.com/VincentCroft/Caculate-Test-App/blob/main/2.png?raw=true)
 
