@@ -33,7 +33,7 @@
 老鸽子回来了，带来了GUI版本，代码还需要优化(挺卡的)
 
 演示截图如下:
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/VincentCroft/Caculate-Test-App@1.0/1.png" /></div>
+
 ![](https://github.com/VincentCroft/Caculate-Test-App/blob/main/1.png?raw=true)
 
 ![](https://github.com/VincentCroft/Caculate-Test-App/blob/main/2.png?raw=true)
